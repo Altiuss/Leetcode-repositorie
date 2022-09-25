@@ -1,7 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
+
 var singleNumber = function(nums) {
 for (var i = 0; i < nums.length; i++) {
     let a = 0;
